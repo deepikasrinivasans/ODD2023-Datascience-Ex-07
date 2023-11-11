@@ -17,8 +17,8 @@ Apply Feature selection techniques to all the features of the data set
 Save the data to the file
 
 ## CODE
-#### DEVELOPED BY: ABINAYA S
-#### Register no:212222230002
+#### DEVELOPED BY: Deepika S
+#### Register no:212222230028
 
 #### Importing library
 ```
