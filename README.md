@@ -145,40 +145,27 @@ print("R-squared (R2) Score: ", r2)
 # OUPUT
 
 #### Initial data
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/8109ee26-6402-4d89-80f6-4619e44b76f9)
-
+![ds1](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/0c7ea6a1-3af6-4da3-a768-45d8bf28b5b5)
 #### Null values
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/30de508f-eb67-49fd-a69d-0768e0cc7cd4)
-
-
+![ds2](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/ba019ad1-e3e9-4860-9abf-4b339cdf8c0e)
 #### Describing the data
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/c46a5bca-6623-4d08-b6c8-aa8928c5cf43)
-
+![ds3](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/c7d497e8-6bb5-484f-bfb7-79839fd2160c)
 #### Missing values
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/8005fbbd-4d9d-4c39-8837-e2688909cfde)
-
+![ds4](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/3e17a08d-37e3-4a83-b50e-75deee9921ff)
 #### Data after cleaning
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/435f3017-24ed-4f9d-bd8f-606af2e19d3c)
-
+![ds5](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/64aaedae-1f96-4494-a37f-611c7105e046)
 #### Data on Heatmap
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/92df7374-388a-407d-9eab-f622a0960c52)
-
+![ds6](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/37b4d771-c859-4301-90ac-8e5d395dd80b)
 #### Report of(people survied & died)
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/ff6f659f-cf65-4c0b-be97-87222e27f64f)
-
+![ds7](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/d6057075-5667-4489-acd0-a69ab957f0b6)
 #### Cleaned null values
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/0f93096e-17d9-4e4c-910c-c82a4c783b68)
-
+![ds8](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/20ced343-c22b-42fd-b1e3-3d3452a6eb2c)
 #### Report of survied people's age
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/02a17016-4a7f-486f-a707-b91757eedb7f)
-
-
+![ds9](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/a534944f-a851-49d0-9257-96de303b7ad0)
 #### Report of pessengers
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/f1cdeef8-4add-4eed-83a5-bf46b7b8fedd)
-
-
+![ds10](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/5b0a25a5-d406-4f59-8db8-fa8174f104ae)
 #### Report
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-07/assets/119393675/6857031e-38e1-494a-a039-3859dd68a623)
+![ds11](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-07/assets/119393935/38654355-ac3f-472a-85d2-8930ffc4a220)
 
 ## RESULT:
 Thus, Sucessfully performed the various feature selection techniques on a given dataset.
